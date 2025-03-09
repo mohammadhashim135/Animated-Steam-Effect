@@ -18,7 +18,7 @@ To use the steam effect in your project:
 
 1. Clone this repository or download the source files.
 2. Link the `styles.css` file in your HTML document.
-3. Add the `.block` div element to your HTML file, and customize its attributes as needed.
+3. Add the `.block` div element to your HTML file and customize its attributes as needed.
 
 ## Customization
 
